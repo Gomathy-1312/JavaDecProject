@@ -6,7 +6,8 @@ public class Variablesex {
 
 	public static void main(String[] args) {
   
-
+        int a =10;
+        // testing purpose
 		byte b = 10;
 		b=20;
 		
